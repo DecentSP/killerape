@@ -9,7 +9,7 @@
       "title": "Run, New Soldier!",
       "volume": "2",
       "groups": {
-        "DecentSP": "/proxy/api/imgur/chapter/r6SlTVh"
+        "DecentSP + AnimeTogether": "/proxy/api/imgur/chapter/r6SlTVh"
       },
       "last_updated": "1624634145"
     },
@@ -17,7 +17,7 @@
       "title": "A General's Capacity",
       "volume": "2",
       "groups": {
-        "DecentSP": "/proxy/api/imgur/chapter/xAiojt4"
+        "DecentSP + AnimeTogether": "/proxy/api/imgur/chapter/xAiojt4"
       },
       "last_updated": "1624634145"
     },
@@ -25,7 +25,15 @@
       "title": "Another War",
       "volume": "2",
       "groups": {
-        "DecentSP": "/proxy/api/imgur/chapter/y0MsND3"
+        "DecentSP + AnimeTogether": "/proxy/api/imgur/chapter/y0MsND3"
+      },
+      "last_updated": "1624634145"
+    },
+   "11": {
+      "title": "Kingship and Fighting Spirit",
+      "volume": "2",
+      "groups": {
+        "DecentSP + AnimeTogether": "/proxy/api/imgur/chapter/ETsm3MU"
       },
       "last_updated": "1624634145"
     }
