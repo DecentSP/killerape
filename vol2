@@ -1,0 +1,33 @@
+{
+  "title": "Killer Ape",
+  "description": "In the distant future, advances in AI technology led to wars being fought without human soldiers. However, at the end of the 22nd century, a mysterious aircraft called "Gayla" shut down all AI, and humanity now must relearn how to wage war. Sakamoto Teppei joins the military in hopes of becoming a soldier, where he is sent into a simulation of the Battle of Waterloo to learn how to kill people.",
+  "artist": "Kawabe Masamichi",
+  "author": "Kawabe Masamichi",
+  "cover": "https://i.imgur.com/1lIfPYj.jpg",
+  "chapters": {
+    "8": {
+      "title": "Run, New Soldier!",
+      "volume": "1",
+      "groups": {
+        "DecentSP": "/proxy/api/imgur/chapter/r6SlTVh"
+      },
+      "last_updated": "1624634145"
+    },
+    "9": {
+      "title": "A General's Capacity",
+      "volume": "1",
+      "groups": {
+        "DecentSP": "/proxy/api/imgur/chapter/xAiojt4"
+      },
+      "last_updated": "1624634145"
+    },
+    "10": {
+      "title": "Another War",
+      "volume": "1",
+      "groups": {
+        "DecentSP": "/proxy/api/imgur/chapter/y0MsND3"
+      },
+      "last_updated": "1624634145"
+    }
+  }
+}
